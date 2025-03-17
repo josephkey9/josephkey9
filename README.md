@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Merhaba! Ben Yusuf , yazılım geliştirme ve veri bilimiyle ilgilenen bir Bilgisayar Mühendisliği öğrencisiyim.  <br>🔭 Şu anda mobil uygulama projeleri geliştiriyorum.  <br>👯 Açık kaynak projelerde iş birliği yapmaya ve yeni teknolojiler öğrenmeye açığım.  <br>   <br>⚡ İlginç bir bilgi: iyi satranç oynarım.
+👋 Merhaba! Ben Yusuf , yazılım geliştirme ve veri bilimiyle ilgilenen bir Bilgisayar Mühendisliği öğrencisiyim.  <br>🔭 Şu anda mobil uygulama projeleri geliştiriyorum.  <br>👯 Açık kaynak projelerde iş birliği yapmaya ve yeni teknolojiler öğrenmeye açığım.  <br>  ⚡ İlginç bir bilgi: iyi satranç oynarım.
 
 
 ## 🌐 Socials:
